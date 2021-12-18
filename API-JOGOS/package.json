@@ -1,0 +1,14 @@
+{
+  "name": "api-jogos",
+  "version": "1.0.0",
+  "description": "Projeto de api jogos",
+  "author": "Guilherme Soares",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  }
+}
